@@ -1,0 +1,84 @@
+Performance of different agents against each other
+
+-----------------------------------------------------
+Player 1 - Monte Carlo Player    Iterations = 1000;
+Player 2 - Minimax Player        SearchDepth = 4;
+
+In 100 matches:
+
+Player 1 Win 50, Lose 49, Draw 1, Win Probablity 0.5
+
+-----------------------------------------------------
+Player 1 - Monte Carlo Player    Iterations = 1000;
+Player 2 - Minimax Player        SearchDepth = 5;
+
+In 100 matches:
+
+Player 1 Win 37, Lose 62, Draw 1, Win Probablity 0.37
+
+-----------------------------------------------------
+Player 1 - Monte Carlo Player    Iterations = 10000;
+Player 2 - Minimax Player        SearchDepth = 5;
+
+In 100 matches:
+
+Win 46, Lose 52, Draw 2, Win Probablity 0.46
+
+-----------------------------------------------------
+Player 1 - Monte Carlo Player    Iterations = 1000;
+Player 2 - Random Player;
+
+In 100 matches:
+
+Player 1 Win 84, Lose 15, Draw 1, Win Probablity 0.84
+
+------------------------------------------------------
+Player 1 - Monte Carlo Player    Iterations = 10000;
+Player 2 - Random Player;
+
+In 100 matches:
+
+Player 1 Win 83, Lose 17, Draw 0, Win Probablity 0.83
+
+------------------------------------------------------
+
+Player 1 - Minimax Player   SearchDepth = 1;
+Player 2 - Random Player;
+
+In 100 matches:
+
+Player 1 Win 66, Lose 30, Draw 4, Win Probablity 0.66
+
+------------------------------------------------------
+Player 1 - Minimax Player   SearchDepth = 2;
+Player 2 - Random Player;
+
+In 100 matches:
+
+Player 1 Win 75, Lose 21, Draw 4, Win Probablity 0.75
+
+------------------------------------------------------
+Player 1 - Minimax Player   SearchDepth = 3;
+Player 2 - Random Player;
+
+In 100 matches:
+
+Player 1 Win 80, Lose 17, Draw 3, Win Probablity 0.8
+
+------------------------------------------------------
+Player 1 - Minimax Player   SearchDepth = 4;
+Player 2 - Random Player;
+
+In 100 matches:
+
+Player 1 Win 86, Lose 11, Draw 3, Win Probablity 0.86
+
+------------------------------------------------------
+Player 1 - Minimax Player   SearchDepth = 5;
+Player 2 - Random Player;
+
+In 100 matches:
+
+Player 1 Win 91, Lose 8, Draw 1, Win Probablity 0.91
+
+------------------------------------------------------
