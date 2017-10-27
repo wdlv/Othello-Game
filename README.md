@@ -1,4 +1,4 @@
-# Program Introduction:
+# Program Info:
 
 ### Player 1 - Monte Carlo Tree Search Player with iterations set as 1000;
 
